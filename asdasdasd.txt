@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+=======
+Hola soy ernesto perez
+>>>>>>> 56d629f9d730ffc73589097007d9ce7c9603f891
+
+
 Estoy cambiando esta cosa para una prueba 
