@@ -12,3 +12,7 @@ Git push origin <Nombre de la Rama> --- > Sube los cambios a la nube
 Git remote add origin "<URL Github>" --- > Enlazar repositorio local con remoto (Para nuevos repositorios)
 Git branch  --- > muestra las ramas y me indica la posicion done estoy 
 Git branch <Nombre de la rama> --- > Crea una nueva rama
+Git checkout <Nombre de la rama destino> --- > Cambia de rama 
+Git merge <Nombre de la rama origen> --- > Combina la informacion de 2 ramas , estando en la rama destino
+Git log --all --graph -- > Muestra delladamente los cambios realizados
+Gitk --- > Muestra graficamente los cambios
