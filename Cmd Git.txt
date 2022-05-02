@@ -1,10 +1,10 @@
 cd --- > Cambiar direccion local para movilizacion en el cmd
 dir --- > Muestra las direcciones disponibles
 cd .. --- > Retrocede en la direccion 
-Git init --- > Inicializa un repositorio
-Git clone + <URL Github> --- > Clona el repositorio que esta en la nube de manera local 
+Git init --- > Inicializa un repositorio (Para nuevos repositorios)
+Git clone + <URL Github> --- > Clona el repositorio que esta en la nube de manera local (Para nuevos repositorios)
 Git status --- > Muestra cambios pendientes por subir local y remotamente
 Git add . --- > Prepara los cambios para subirlos de forma local 
-Git commit --- > Sube la informacion de forma local 
+Git commit -m "<Mensaje>" --- > Sube la informacion de forma local 
 Git pull origin <Nombre de la Rama> --- > Guarda los cambios realizados por otros miembros del equipo en caso de haberse realizado 
 Git push origin <Nombre de la Rama> --- > Sube los cambios a la nube
